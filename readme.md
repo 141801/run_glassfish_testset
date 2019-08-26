@@ -1,5 +1,5 @@
 ## 背景
-在对glassfish的源码进行修正（比如jdk11移植）之后，需要通过glassfish自带的最基本的测试集<p>
+在对glassfish的源码进行修正（比如jdk11移植）之后，需要通过glassfish自带的最基本的测试集用来保证glassfish的动作正确性<p>
 glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/test里面。<p>
 [glassfish源码](https://github.com/eclipse-ee4j/jakartaee-tck)
 
