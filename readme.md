@@ -5,9 +5,7 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
 
 ## 测试集
 [测试用例一览 ](https://github.com/eclipse-ee4j/glassfish/blob/master/Jenkinsfile) <p>
-[testSuite固体构成](https://download.oracle.com/glassfish/prs/22578/test-results--2018-09-03--22:47:01/index.html)
-例：
-[connector_group_2具体构成](https://download.oracle.com/glassfish/prs/22578/test-results--2018-09-03--22:47:01/connector_group_2/test_results_junit.xml)
+[testSuite固体构成](https://download.oracle.com/glassfish/prs/22578/test-results--2018-09-03--22:47:01/index.html) <p>
 
 ## 步骤
 
