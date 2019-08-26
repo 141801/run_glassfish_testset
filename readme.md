@@ -33,7 +33,7 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
     $./appserver/tests/gftest.sh run_test connector_group_2 （本次演示只对connector_group_2测试）
     
 ##测试结果
- 结果在/root/glassfish/workspace/results里面表示
+ 结果在/root/glassfish/workspace/results里面表示 <p>
  ![additional](https://i.ibb.co/fX4f941/glassfishtest1.png "")　<p>
 
 
