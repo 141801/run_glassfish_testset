@@ -6,7 +6,7 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
 ## 测试集
 [测试用例一览 ](https://github.com/eclipse-ee4j/glassfish/blob/master/Jenkinsfile) <p>
 ![additional](https://i.ibb.co/s27ps1H/testsuite.png "")　<p>
-
+每次对源码的修正，所有的testsuite需要全部通过。
 ## 步骤
 
 ## /glassfish项目build
