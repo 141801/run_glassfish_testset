@@ -34,7 +34,7 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
     
 ##测试结果
  结果在/root/glassfish/workspace/results里面表示 <p>
- ![additional](https://i.ibb.co/fX4f941/glassfishtest1.png "")　<p>
+ ![additional](https://i.ibb.co/sgynCym/glassfishtest1.png "")　<p>
 
  
 ##查看测试报告
