@@ -14,6 +14,7 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
     $export JAVA_HOME=/jh/jdk1.8.0_211  (JAVA HOMNE 设定)
     $export PATH=$JAVA_HOME/bin:$PATH  
     $mvn clean install -Dmaven.test.skip=true
+确认在 /root/glassfish/appserver/distributions/glassfish/target里面生成glassfish.zip文件
 
 ## ant 安装
     $yum install ant #version 1.10.5
@@ -26,7 +27,7 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
     $export S1AS_HOME=/root/glassfish/appserver/distributions/glassfish/target/stage/glassfish5/glassfish
     $export TEST_RUN_LOG=/root/glassfish/workspace/tests_run.log
 ## glassfish.zip copy
-    $cp glassfish.zip  /root/glassfish/workspace/bundles/  （在glassfish下面新建 workspace/bundles 文件夹）
+    $cp /root/glassfish/appserver/distributions/glassfish/target/glassfish.zip  /root/glassfish/workspace/bundles/  （在glassfish下面新建 workspace/bundles 文件夹）
 
 ## 测试开始
     $cd /glassfish
