@@ -32,13 +32,13 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
     $cd /glassfish
     $./appserver/tests/gftest.sh run_test connector_group_2 （本次演示只对connector_group_2测试）
     
-##测试结果
+## 测试结果
  结果在/root/glassfish/workspace/results里面表示 <p>
  ![additional](https://i.ibb.co/sgynCym/glassfishtest1.png "")　<p>
 
  
-##查看测试报告
+## 查看测试报告
 可以用浏览器打开\test_results.html文件查看报告内容（下面截图是在jdk11上做移植的报告，所以只有8个测试pass）<p>
  ![additional](https://i.ibb.co/PrJd6fz/glassfishtest2.png "")　<p>
-※本次演示不涉及jdk11的内容，如果没有对glassfish做任何修改并且在jdk8的环境下做testsuite的情况下，应该所有的test都pass。
+※本次演示不涉及jdk11的内容，如果没有对glassfish做任何修改并且在jdk8的环境下做testsuite的情况下，所有的test都pass。
 
