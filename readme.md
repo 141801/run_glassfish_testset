@@ -1,11 +1,14 @@
 ## 背景
 在对glassfish的源码进行修正（比如jdk11移植）之后，需要通过glassfish自带的最基本的测试集用来保证glassfish的动作正确性<p>
 glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/test里面。<p>
-[glassfish源码](https://github.com/eclipse-ee4j/jakartaee-tck)
+[glassfish源码]https://github.com/eclipse-ee4j/glassfish)
 
 ## 测试集
 [测试用例一览 ](https://github.com/eclipse-ee4j/glassfish/blob/master/Jenkinsfile)
- 
+[testSuite固体构成](https://download.oracle.com/glassfish/prs/22578/test-results--2018-09-03--22:47:01/index.html)
+例：
+[connector_group_2具体构成](https://download.oracle.com/glassfish/prs/22578/test-results--2018-09-03--22:47:01/connector_group_2/test_results_junit.xml)
+
 ## 步骤
 
 ## /glassfish项目build
