@@ -34,10 +34,10 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
     
 ##测试结果
  结果在/root/glassfish/workspace/results里面表示 <p>
- ![additional](https://i.ibb.co/fX4f941/glassfishtest1.png "")　<p>
+ ![additional](https://i.ibb.co/sgcZVMJ/glassfishtest2.png "")　<p>
  
 ##查看测试报告
 可以用浏览器打开\test_results.html文件查看报告内容（下面截图是在jdk11上做移植的报告，所以只有8个测试pass）<p>
 ![additional](https://i.ibb.co/fX4f941/glassfishtest1.png "")　<p>
-※在jdk11上做testset的时候，因为derby的问题要添加classpath，本次演示不涉及
+※在jdk11上做testsuite时，因为derby的问题要添加classpath，本次演示不涉及jdk11的内容。
 
