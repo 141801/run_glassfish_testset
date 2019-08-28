@@ -7,8 +7,6 @@ glassfish团队给出了一个基本的测试集，源码在glassfish/appserver/
 [测试用例一览 ](https://github.com/eclipse-ee4j/glassfish/blob/master/Jenkinsfile) <p>
 ![additional](https://i.ibb.co/s27ps1H/testsuite.png "")　<p>
 
- ### 创建集群 
-![additional](https://i.ibb.co/nmWw7gd/creeate-kubernetes.png "")　<p>
 
 ## 步骤
 
